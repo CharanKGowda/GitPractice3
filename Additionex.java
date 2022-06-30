@@ -7,6 +7,7 @@ public class Additionex {
 		Scanner s=new Scanner(System.in);
 		int x,y;
 		System.out.println("Enter two numbers");
+		System.out.println();
 		x=s.nextInt();
 		y=s.nextInt();
 		add(x,y);
