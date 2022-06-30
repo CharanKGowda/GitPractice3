@@ -15,5 +15,6 @@ public class Additionex {
 static void add(int a,int b) 
 {
 	System.out.println("The sum is "+(a+b));
+	System.out.println();
 }
 }
